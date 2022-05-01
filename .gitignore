@@ -1,0 +1,8 @@
+node_modules
+*.DS_Store
+config.php
+package-lock.json
+
+
+main/** != main/css/style.min.css
+main/** != main/js/script.min.js
